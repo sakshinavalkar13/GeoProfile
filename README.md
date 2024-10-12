@@ -73,9 +73,6 @@ Users can search and filter profiles by name, location, or other attributes. The
 
 2. Deploy the build files to platforms like Netlify, Vercel, or GitHub Pages.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Repository Description:

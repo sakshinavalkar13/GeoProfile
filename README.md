@@ -84,5 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This repository contains the code for **GeoProfiles**, an interactive profile explorer built using React. The application displays user profiles and their corresponding addresses on an interactive map, integrated with Google Maps or Mapbox. Key features include profile management via an admin panel, search and filter options, and responsive design, ensuring a smooth user experience.
 
 ---
-
-Let me know if you need any further modifications!

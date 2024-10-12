@@ -24,8 +24,6 @@ Here's the updated README file specifically for **GeoProfiles** using React:
 - **State Management**: Redux (for managing global state)
 - **Mapping Service**: Google Maps or Mapbox API
 - **CSS Framework**: Tailwind CSS or Bootstrap
-- **Backend**: Node.js (optional for admin panel APIs)
-- **Database**: MongoDB (for profile storage)
 
 ## Installation
 
